@@ -194,7 +194,6 @@ table {
   border-spacing: 0;
 }
 td,
-th {,
 th {
   white-space: nowrap !important;
   padding: 0;
@@ -19944,10 +19943,10 @@ Freq: MS, Name: CEMADEN, dtype: float64</pre>
 
 
 
-<div id="dbdf4724-301e-4de8-b911-92d0f49dc1d9"></div>
+<div id="2fd03518-38ed-4ba3-a2b3-ca8f27594e16"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#dbdf4724-301e-4de8-b911-92d0f49dc1d9');
+var element = $('#2fd03518-38ed-4ba3-a2b3-ca8f27594e16');
 /* Put everything inside the global mpl namespace */
 window.mpl = {};
 
@@ -20773,10 +20772,10 @@ if (IPython.notebook.kernel != null) {
 
 
 
-<div id="3aa99dd2-060b-4cc1-bdad-63b3f478f87b"></div>
+<div id="8b541a9e-b99f-4fbc-b5e9-e0bc963b9d1e"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#3aa99dd2-060b-4cc1-bdad-63b3f478f87b');
+var element = $('#8b541a9e-b99f-4fbc-b5e9-e0bc963b9d1e');
 /* Put everything inside the global mpl namespace */
 window.mpl = {};
 
@@ -21602,10 +21601,10 @@ if (IPython.notebook.kernel != null) {
 
 
 
-<div id="59365dd6-4401-4d55-ba39-4849a040eccf"></div>
+<div id="e52fdbe1-95c6-45fa-94a9-0ee0c93e5a94"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#59365dd6-4401-4d55-ba39-4849a040eccf');
+var element = $('#e52fdbe1-95c6-45fa-94a9-0ee0c93e5a94');
 /* Put everything inside the global mpl namespace */
 window.mpl = {};
 
@@ -22421,10 +22420,10 @@ if (IPython.notebook.kernel != null) {
 
 
 
-<div id="1013dccf-eac9-4c1a-beb2-7fa74dbe6e98"></div>
+<div id="99848548-c7f1-4918-962b-3ab71a34ecd3"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#1013dccf-eac9-4c1a-beb2-7fa74dbe6e98');
+var element = $('#99848548-c7f1-4918-962b-3ab71a34ecd3');
 /* Put everything inside the global mpl namespace */
 window.mpl = {};
 
@@ -23250,19 +23249,7 @@ if (IPython.notebook.kernel != null) {
 </div>
 </div>
 </div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span> 
-</pre></div>
 
-    </div>
-</div>
-</div>
-
-</div>
     </div>
   </div>
 </body>
