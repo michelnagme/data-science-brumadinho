@@ -1,4 +1,4 @@
-# Analysis of the possible impact of rainfall in Brumadinho's Dam collapse
+# Analysis of the impact of rainfall in Brumadinho's Dam collapse
 
 This repository contains the data, code and analysis of the possibility of rainfalls being a cause the one of the greatest natural disasters in history. The code is part of notebooks, which also bring the analysis and conclusions. There's also a story posted in Medium with a summary of the questions and findings which can be found [here](https://medium.com/@michelfnrc/they-want-us-to-believe-heavy-rain-is-one-of-the-causes-of-brumadinhos-dam-collapse-should-we-39386a7f6ee1).
 
