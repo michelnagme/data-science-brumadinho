@@ -31,11 +31,11 @@ If you want to run any of the notebooks locally, first you need to [install Jupy
 
 After installing Jupyter, the only library you'll probably need to install by yourself is `mplleaflet`, what you can do from PyPI using 
 
-  `$ pip install mplleaflet`
+> `$ pip install mplleaflet`
   
 Lastly, launching a notebook should be as easy as running the following command
 
-  `$ jupyter notebook`
+> `$ jupyter notebook`
 
 ## Results <a name="results"></a>
 
