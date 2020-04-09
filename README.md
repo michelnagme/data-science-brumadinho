@@ -5,7 +5,7 @@ This repository contains the data, code and analysis of the possibility of rainf
 ## Table of Contents
 
 1. [Motivation](#motivation)
-2. [File descriptions](#files)
+2. [File descriptions](#filesdescriptions)
 3. [Installation](#installation)
 4. [Results](#results)
 5. [Licensing](#licensing)
@@ -19,7 +19,7 @@ The motivation for this project is to evaluate the impact of rainfall in the col
 2. Has rainfall increased in the years that followed 2016?
 3. Were there unexpected rain patterns that could have impacted the rupture of Brumadinho’s dam?
 
-## Files descriptions <a name="files"></a>
+## Files descriptions <a name="filesdescriptions"></a>
 
 * There are 2 notebooks available, both with same content but one in English and another in Portuguese. They contain all analysis done to answer the questions above, with a step-by-step guide.
 * Since data were collected from external sources, a copy of the full set of files used for this project is available at `/data` folder.
