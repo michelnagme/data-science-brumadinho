@@ -43,7 +43,7 @@ A story posted in Medium with a summary of the questions, analysis and findings 
 
 ## Licensing <a name="licensing"></a>
 
-This project is licensed under the MIT License.
+This repository is licensed under the MIT License.
 
 ## Resources <a name="resources"></a>
 
