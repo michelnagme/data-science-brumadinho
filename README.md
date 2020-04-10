@@ -13,7 +13,7 @@ This repository contains the data, code and analysis of the possibility of rainf
 
 ## Motivation <a name="motivation"></a>
 
-The motivation for this project is to evaluate the impact of rainfall in the collapse of Dam I in Brumadinho, MG, Brazil. For that, we've answered the following questions:
+The motivation for this project is to evaluate the impact of rainfall in the collapse of Dam I in Brumadinho, MG, Brazil. For that, I've answered the following questions:
 
 1. Was there more rain than usual in late 2018?
 2. Has rainfall increased in the years that followed 2016?
